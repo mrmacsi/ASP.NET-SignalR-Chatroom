@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>userListGetir</title>
+</head>
+<body>
+    <div> 
+        <script src="~/js/jquery-2.1.4.js"></script>
+        <script src="~/js/bootstrap.min.js"></script>
+        <div>
+            <script>
+        //kullanıcı listesi getirecek metod ajax ile tetikleniyor
+        $(function () {
+            $.post("/Home/userListGetir", "", function (data) {
+                $.each(data, function (i) {
+                    alert(this.username+"-"+this.name);
+                });
+            });
+        });
+            </script>
+        </div>
+</body>
+</html>

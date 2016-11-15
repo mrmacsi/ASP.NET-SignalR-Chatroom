@@ -1,0 +1,197 @@
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\csc.exe
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\vbc.exe
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\myChat.dll.config
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\myChat.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\myChat.pdb
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Antlr3.Runtime.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Newtonsoft.Json.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Helpers.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Mvc.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Optimization.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Razor.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\WebGrease.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Helpers.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Mvc.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Optimization.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.Razor.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Antlr3.Runtime.pdb
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\bin\Newtonsoft.Json.xml
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\obj\Debug\myChat.csprojResolveAssemblyReference.cache
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\obj\Debug\myChat.dll
+C:\Users\hasancan\YandexDisk-maxiproje\Proje\myChat\myChat\obj\Debug\myChat.pdb
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\csc.exe
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\vbc.exe
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Macsi\Desktop\myChat\myChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Macsi\Desktop\myChat\myChat\bin\myChat.dll.config
+C:\Users\Macsi\Desktop\myChat\myChat\bin\myChat.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\myChat.pdb
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Antlr3.Runtime.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Newtonsoft.Json.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Owin.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Helpers.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Mvc.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Optimization.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Razor.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\WebGrease.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Helpers.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Mvc.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Optimization.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.Razor.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Antlr3.Runtime.pdb
+C:\Users\Macsi\Desktop\myChat\myChat\bin\Newtonsoft.Json.xml
+C:\Users\Macsi\Desktop\myChat\myChat\obj\Debug\myChat.csprojResolveAssemblyReference.cache
+C:\Users\Macsi\Desktop\myChat\myChat\obj\Debug\myChat.dll
+C:\Users\Macsi\Desktop\myChat\myChat\obj\Debug\myChat.pdb
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\csc.exe
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\vbc.exe
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\myChat.dll.config
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\myChat.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\myChat.pdb
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Antlr3.Runtime.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.Security.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Newtonsoft.Json.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Owin.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Helpers.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Mvc.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Optimization.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Razor.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\WebGrease.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Microsoft.Owin.Security.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Helpers.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Mvc.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Optimization.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.Razor.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Antlr3.Runtime.pdb
+C:\Users\GÖKBERK\Desktop\myChat\myChat\bin\Newtonsoft.Json.xml
+C:\Users\GÖKBERK\Desktop\myChat\myChat\obj\Debug\myChat.csprojResolveAssemblyReference.cache
+C:\Users\GÖKBERK\Desktop\myChat\myChat\obj\Debug\myChat.dll
+C:\Users\GÖKBERK\Desktop\myChat\myChat\obj\Debug\myChat.pdb
+C:\Users\Macsi\Desktop\myChat\myChat\bin\EntityFramework.dll
+C:\Users\Macsi\Desktop\myChat\myChat\bin\EntityFramework.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\csc.exe
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\System.Collections.Immutable.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\System.Reflection.Metadata.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\vbc.exe
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\VBCSCompiler.exe
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\roslyn\VBCSCompiler.exe.config
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\myChat.dll.config
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\myChat.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\myChat.pdb
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Antlr3.Runtime.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\EntityFramework.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.Security.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Web.Infrastructure.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Newtonsoft.Json.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Owin.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Helpers.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Mvc.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Optimization.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Razor.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.Deployment.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.Razor.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\WebGrease.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\EntityFramework.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Microsoft.Owin.Security.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Helpers.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Mvc.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Optimization.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.Razor.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.Deployment.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\System.Web.WebPages.Razor.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Antlr3.Runtime.pdb
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\bin\Newtonsoft.Json.xml
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\obj\Debug\myChat.csprojResolveAssemblyReference.cache
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\obj\Debug\myChat.dll
+F:\Dersler\3. Sınıf\1. Dönem\İleri Web Programlama\hackaton\myChat\myChat\obj\Debug\myChat.pdb

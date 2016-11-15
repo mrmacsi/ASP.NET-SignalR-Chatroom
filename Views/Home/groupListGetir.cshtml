@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>groupListGetir</title>
+</head>
+<body>
+    <div> 
+        <script>
+        //veri tabanındaki grup bilgieri liste olarak döner
+        $(function () {
+            $.post("/Home/groupListGetir", "", function (data) {
+                $.each(data, function (i) {
+                    alert("-"+this.GroupName);
+                });
+            });
+        });
+        </script>
+    </div>
+</body>
+</html>

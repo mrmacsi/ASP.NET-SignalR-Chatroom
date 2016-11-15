@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="chatDBModelStoreContainer" CdmEntityContainer="chatDBEntities">
+    <EntitySetMapping Name="Group">
+      <EntityTypeMapping TypeName="chatDBModel.Group">
+        <MappingFragment StoreEntitySet="Group">
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GroupChat">
+      <EntityTypeMapping TypeName="chatDBModel.GroupChat">
+        <MappingFragment StoreEntitySet="GroupChat">
+          <ScalarProperty Name="chatID" ColumnName="chatID" />
+          <ScalarProperty Name="message" ColumnName="message" />
+          <ScalarProperty Name="groupID" ColumnName="groupID" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="time" ColumnName="time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="chatDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

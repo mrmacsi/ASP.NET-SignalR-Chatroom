@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="chatDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Group">
+    <Key>
+      <PropertyRef Name="GroupID" />
+    </Key>
+    <Property Name="GroupID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GroupName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="GroupChat">
+    <Key>
+      <PropertyRef Name="chatID" />
+    </Key>
+    <Property Name="chatID" Type="Int32" Nullable="false" />
+    <Property Name="message" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="groupID" Type="Int32" />
+    <Property Name="userID" Type="Int32" />
+    <Property Name="time" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="16" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="16" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="chatDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Group" EntityType="Self.Group" />
+    <EntitySet Name="GroupChat" EntityType="Self.GroupChat" />
+    <EntitySet Name="User" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>

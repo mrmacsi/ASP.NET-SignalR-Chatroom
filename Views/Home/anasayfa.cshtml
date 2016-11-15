@@ -1,0 +1,90 @@
+﻿@{
+    ViewBag.Title = "Chat";
+}
+<div class="jumbotron">
+    <h1>Chat Uygulaması</h1>
+</div>
+@section scripts
+{
+<script type="text/javascript" src="~/Scripts/jquery.signalR-2.2.0.js"></script>
+<script type="text/javascript" src="~/signalr/hubs"></script>
+<link href="~/Content/app.min.css" rel="stylesheet" />
+    <script type="text/javascript">
+        var userid = 0;
+        var grupid = 0;
+        $(function () {
+            var chatHub = $.connection.chatHub;
+            //gönderilen bilgiler yeni bilgi olduğunu anlaşıldığında yazdırıldı
+            chatHub.client.sendMessageGroup = function (message, GroupID, UserID) {
+                if (grupid == GroupID) {
+                    $("#yaz").append("<li><strong>" + UserID + "li kişi</strong>" + "-" + message + "</li><br>");
+                }
+            };
+
+            $("#message").focus();
+            //bağlantı başladı click fonksiyonu soket açarak verileri gönderdi
+            //groupsend fonksiyonu hubs ta yapılan class üzerinden yapıldı
+            $.connection.hub.start().done(function () {
+                $("#sendMessage").on("click", function () {
+                    var message = $("#message").val();
+                    chatHub.server.groupSend(message, grupid, userid);
+                    $("#message").val("").focus();
+                });
+            });
+        });
+        function messageKayit(message, GroupID, UserID) {
+            var sohbet = { message: message, groupID: GroupID, userID: UserID };
+            $.post("/Home/sohbetKayit", sohbet, function (data) {
+            });
+
+        }
+        //sobbet idsini alan ve ona özel pencere oluşturan fonksiyon
+        function grupSohbet(id) {
+            grupid = id;
+            $('#degistir').val(id + "id'li group sohbeti açıldı");
+            $("#yaz").html("");
+        }
+        //kisi idsini alan ve ona özel pencere oluşturan fonksiyon
+        function kisiSohbet(id) {
+            grupid = id;
+            $('#degistir').val(id + "id'li kişi sohbeti açıldı");
+            $("#yaz").html("");
+        }
+    </script>
+}
+
+<div class="col-sm-12">
+    <div class="row">
+</div>
+    
+    <div class="col-sm-4">
+        <div class="card-header">
+            <h2>Gruplar</h2>
+            <a onclick="grupSohbet(1)" href="#" class="list-group-item">Grup1</a>
+            <a onclick="grupSohbet(2)" href="#" class="list-group-item">Grup2</a>
+            <a onclick="grupSohbet(3)" href="#" class="list-group-item">Grup3</a>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <div class="card-header">
+            <h2>Kişiler</h2>
+            <a onclick="kisiSohbet(1)" href="#" class="list-group-item">Kişi1</a>
+            <a onclick="kisiSohbet(2)" href="#" class="list-group-item">Kişi2</a>
+            <a onclick="kisiSohbet(3)" href="#" class="list-group-item">Kişi3</a>
+        </div>
+    </div>
+    <div class="col-sm-4"  style="background-color:aquamarine;">
+        <div class="card-header">
+            <h2>Sohbet Penceresi</h2>
+            <input type="text" class="col-md-12 control-label" id="degistir" />
+        </div>
+        <div>
+            <input type="text" id="message" placeholder="Mesaj Girin" class="form-control" />
+            <input type="button" id="sendMessage" value="Gönder" />
+        </div>
+        <div id="yaz">...</div>
+
+    </div>
+</div>
+        
+
